@@ -37,6 +37,7 @@ file.
 ![WhatsApp Image 2025-08-22 at 09 48 21_328e7201](https://github.com/user-attachments/assets/ea0066cc-a42f-41f1-84f0-4c0720792a5e)
 
 ##RESULT
+
 The simulation successfully demonstrates a bus topology setup and data transmission using NS2.
 
 
